@@ -1,0 +1,79 @@
+.page {
+    color: #163152;
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.site-navigation-item a {
+    color: #163152;
+    font-size: 14px;
+    line-height: 18px; /* 128.571% */
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.hero h1 {
+    font-size: 44px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 60px; /* 136.364% */
+}
+
+.title {
+    font-weight: 700;
+    line-height: 34px;
+    text-decoration: underline;
+    text-decoration-color: #00c6bd;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 2px;
+    text-underline-position: under;
+}
+
+.blog__date {
+    font-size: 14px;
+    line-height: 18px; /* 128.571% */
+    text-transform: uppercase;
+}
+
+.contact-item h3 {
+    font-weight: 700;
+    line-height: 22px; /* 137.5% */
+}
+
+.contact-item a,
+.contact-item address {
+    color: #163152;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; /* 137.5% */
+    text-decoration: none;
+}
+
+.policy a {
+    color: #163152;
+    font-size: 10px;
+    line-height: 12px; /* 120% */
+    text-decoration: none;
+}
+
+.copyright {
+    font-size: 10px;
+    line-height: 12px;
+}
+
+.footer-navigation-topic h2 {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18px; /* 128.571% */
+    text-transform: uppercase;
+}
+
+.footer-navigation-item a {
+    color: #163152;
+    font-size: 14px;
+    line-height: 16px; /* 128.571% */
+    text-decoration: none;
+}
